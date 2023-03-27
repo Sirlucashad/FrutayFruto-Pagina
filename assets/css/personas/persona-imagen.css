@@ -14,17 +14,17 @@
 }
 
 .persona__imagen--ezequiel{
-    background-image: url("../../img/personas/Ezequiel.jpg");
+    background-image: url("./../../img/personas/Ezequiel.jpg");
 
 }
 
 .persona__imagen--lautaro{
-    background-image: url("../../img/personas/Lautaro.jpg");
+    background-image: url("./../../img/personas/Lautaro.jpg");
 
 }
 
 .persona__imagen--andrea{
-    background-image: url("../../img/personas/andrea.jpg");
+    background-image: url("./../../img/personas/andrea.jpg");
 
 }
 
