@@ -1,5 +1,5 @@
 .banner__imagen{
-    background-image: url("./assets/img/banner.png");
+    background-image: url("./../../img/banner.png");
     width: 100%;
     height: calc(100vh - 15rem);
     background-repeat: no-repeat;
