@@ -1,0 +1,29 @@
+
+
+.pie__mensaje{
+   
+   color: #ffffff;
+   font-family: pacifico, cursive;
+   font-size: 0.8rem;
+   width: auto;
+   text-align: justify;
+   padding-top: 0;
+   border-bottom: 3rem;
+   
+   
+   
+   
+}
+
+@media (min-width: 480px) {
+    .pie__mensaje{
+         font-size: 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .pie__mensaje{
+      font-size: 1.3rem;
+      
+    }
+}

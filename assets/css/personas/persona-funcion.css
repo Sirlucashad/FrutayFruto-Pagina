@@ -1,0 +1,12 @@
+
+.persona__funcion{
+    color: #595959;
+    font-size: 1rem;
+    text-transform: lowercase;
+}
+
+@media (min-width: 480px) {
+    .persona__funcion{
+        font-size: 1.25rem;
+    }
+}

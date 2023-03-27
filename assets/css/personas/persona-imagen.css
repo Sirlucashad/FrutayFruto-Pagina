@@ -1,0 +1,51 @@
+
+.persona__imagen{
+  
+    min-height: 80px;
+    min-width: 80px;
+    max-height: 300px;
+    max-width: 300px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+   
+}
+
+.persona__imagen--ezequiel{
+    background-image: url("../../img/personas/Ezequiel.jpg");
+
+}
+
+.persona__imagen--lautaro{
+    background-image: url("../../img/personas/Lautaro.jpg");
+
+}
+
+.persona__imagen--andrea{
+    background-image: url("../../img/personas/andrea.jpg");
+
+}
+
+@media (min-width: 480px) {
+    .persona__imagen{
+        height: 150px;
+        width: 150px;
+    }
+}
+
+@media (min-width: 768px) {
+    .persona__imagen{
+       height: 210px;
+       width: 210px;
+    }
+}
+
+@media (min-width: 992px) {
+    .persona__imagen{
+        height: 300px;
+        width: 300px;
+        margin: 0 2rem;
+    }
+}

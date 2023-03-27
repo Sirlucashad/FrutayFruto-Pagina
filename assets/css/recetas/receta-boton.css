@@ -1,0 +1,33 @@
+.receta__boton{
+    background-color: #7ecd90;
+    border: none;
+    border-radius: 5px;
+    color: #1f1d1d;
+    padding: .5rem;
+    cursor: pointer;
+    margin-left: 10rem;
+    margin-bottom: 0.7rem;
+    width: auto;
+    max-width: 45%;
+    
+   
+}
+
+.receta__boton:hover{
+    background-color: #82ea9c;
+}
+
+@media (min-width: 480px) {
+    .receta__boton{
+        margin-top: 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .receta__boton{
+        width: 45%;
+        display: inline;
+        margin-right: 10.8rem;
+        
+   
+}

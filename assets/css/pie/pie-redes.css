@@ -1,0 +1,11 @@
+
+.pie__redes{
+   margin-right: .6rem;
+   
+}
+
+@media (min-width: 480px) {
+    .pie__redes{
+        
+    }
+}

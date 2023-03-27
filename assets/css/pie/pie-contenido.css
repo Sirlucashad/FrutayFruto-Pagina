@@ -1,0 +1,21 @@
+
+
+.pie__contenido{
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    padding-left: 1rem;
+    margin-top: auto;
+    align-items: center;
+   
+    
+   
+}
+
+
+@media (min-width: 480px) {
+    .pie__contenido{
+        flex-direction: row;
+        margin: 0 2rem;
+    }
+}
