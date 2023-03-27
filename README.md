@@ -1,6 +1,6 @@
 # Página frutaYfruto
 
-<a href="https://github.com/Sirlucashad/FrutayFruto-Pagina.git">Visualiza mi repositorio</a>
+<a href="https://sirlucashad.github.io/FrutayFruto-Pagina/">Visualiza mi repositorio</a>
 
 
 
