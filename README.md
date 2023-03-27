@@ -1,6 +1,6 @@
-# Arquitectura-css
-curso de arquictetura CSS de Alura Latam. 
-Instructora: Jeanmarie Quijada
+# Página frutaYfruto
+
+<a href="https://github.com/Sirlucashad/FrutayFruto-Pagina.git">Visualiza mi repositorio</a>
 
 
 
